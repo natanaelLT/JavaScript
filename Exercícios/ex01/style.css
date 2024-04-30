@@ -1,0 +1,15 @@
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0px;   
+}
+body{
+    background-color: cadetblue;
+    margin: 0px;
+}
+header{
+    background-color: white;
+    background-image: linear-gradient(9deg,rgb(88, 99, 161), rgb(79, 189, 174));
+}
